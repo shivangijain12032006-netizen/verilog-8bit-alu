@@ -57,7 +57,7 @@ module tb_ALU;
 
         en = 0; #30;
 
-        $stop;
+        $finish;
     end
 
     // Output display in terminal
